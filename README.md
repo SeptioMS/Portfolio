@@ -5,10 +5,12 @@
 ---
 
 ## 👋 About Me
-I am an IT professional with **4 years of experience as an IT Support Specialist**, skilled in troubleshooting, system maintenance, and technical support.  
-Currently, I work as a **Dump Truck Assistant** while transitioning my career into **Quality Assurance (QA)** after completing the  **Mini Bootcamp QA Engineer: Basic Automation & Testing (2025)**.
-
-My goal is to build a long-term career in QA Engineering, specializing in **manual testing**, **automation**, and **API testing** to ensure high-quality software delivery.
+nthusiastic IT graduate with experience in IT Support and strong interest in **Software
+Quality Assurance**. Completed training in **QA fundamentals covering manual testing, test
+case design, defect reporting, and basic automation using Selenium, Postman, JMeter, and
+Appium. Skilled in JavaScript scripting, SQL queries, and Agile methodology**. Proven
+**problem-solving ability**, **detail-oriented**, and eager to grow in **an entry-level QA role** while
+**continuously learning automation and advanced testing tools**. 
 
 ---
 
