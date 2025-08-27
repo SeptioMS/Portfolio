@@ -5,7 +5,7 @@
 ---
 
 ## 👋 About Me
-nthusiastic IT graduate with experience in IT Support and strong interest in **Software
+Enthusiastic IT graduate with experience in IT Support and strong interest in **Software
 Quality Assurance**. Completed training in **QA fundamentals covering manual testing, test
 case design, defect reporting, and basic automation using Selenium, Postman, JMeter, and
 Appium. Skilled in JavaScript scripting, SQL queries, and Agile methodology**. Proven
