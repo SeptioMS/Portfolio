@@ -49,8 +49,8 @@ My goal is to build a long-term career in QA Engineering, specializing in **manu
 
 ## 📫 Contact
 - **Email:** septio_misdia@live.com  
-- **LinkedIn:** [linkedin.com/in/septiomisdiasaputra888](https://www.linkedin.com/in/septiomisdiasaputra888/)  
-- **GitHub:** [github.com/SeptioMS/](https://github.com/SeptioMS/)
+- **LinkedIn:** [Septio MS](https://www.linkedin.com/in/septioms/)  
+- **GitHub:** [Septio MS](https://github.com/SeptioMS/)
 
 ---
 
